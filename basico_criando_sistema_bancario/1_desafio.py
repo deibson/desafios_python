@@ -95,7 +95,7 @@ def show_extrato():
     """)
 
 
-def operacao():  
+def main():  
 
     while True:
         
@@ -120,4 +120,4 @@ def operacao():
 
 
 if __name__ == "__main__":
-    operacao()
+    main()
